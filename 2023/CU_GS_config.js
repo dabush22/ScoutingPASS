@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "MIESC",
+      "defaultValue": "2023miesc",
       "required": "true",
       "disabled": "true"
     },
