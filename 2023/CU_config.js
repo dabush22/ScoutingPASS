@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "MIESC",
+      "defaultValue": "WEEK0",
       "required": "true",
       "disabled": "true"
     },
