@@ -19,7 +19,7 @@ var config_data = `
       "type": "event",
       "defaultValue": "WEEK0",
       "required": "true",
-      "disabled": "true"
+      "disabled": "false"
     },
     { "name": "Match Level",
       "code": "l",
