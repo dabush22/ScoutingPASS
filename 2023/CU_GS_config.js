@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "WEEK0",
+      "defaultValue": "MIESC",
       "required": "true",
       "disabled": "false"
     },
