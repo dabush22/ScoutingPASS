@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "MIESC",
+      "defaultValue": "mista",
       "required": "true",
       "disabled": "true"
     },
