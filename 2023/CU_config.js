@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "mista",
+      "defaultValue": "2023mista",
       "required": "true",
       "disabled": "true"
     },
