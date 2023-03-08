@@ -15,8 +15,7 @@ var config_data = `
       "code": "e",
       "type": "event",
       "defaultValue": "2023miket",
-      "required": "true",
-      "disabled": "false"
+      "required": "true"
     },
     { "name": "Match Level",
       "code": "l",
