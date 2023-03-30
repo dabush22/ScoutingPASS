@@ -186,17 +186,10 @@ var config_data = `
       "code": "ls",
       "type": "counter"
     },
-    { "name": "Defense Rating",
-      "code": "dr",
-      "type": "radio",
-      "choices": {
-        "b": "Below Average<br>",
-        "a": "Average<br>",
-        "g": "Good<br>",
-        "e": "Excellent<br>",
-        "x": "Did not play defense"
+    { "name": "Good defense?",
+      "code": "defg",
+      "type": "bool"
       },
-      "defaultValue": "x"
     },
     { "name": "Swerve drive?",
       "code": "sd",
@@ -220,6 +213,10 @@ var config_data = `
     },
     { "name": "Tippy<br>(almost tipped over)",
       "code": "tip",
+      "type": "bool"
+    },
+    { "name": "Attempt a 3 bot balance?"
+      "code": "bal",
       "type": "bool"
     },
     { "name": "Dropped Cones (>2)",
