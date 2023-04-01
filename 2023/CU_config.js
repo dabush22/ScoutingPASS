@@ -189,7 +189,6 @@ var config_data = `
     { "name": "Good defense?",
       "code": "defg",
       "type": "bool"
-      },
     },
     { "name": "Swerve drive?",
       "code": "sd",
