@@ -214,7 +214,7 @@ var config_data = `
       "code": "tip",
       "type": "bool"
     },
-    { "name": "Attempt a 3 bot balance?"
+    { "name": "Attempt a 3 bot balance?",
       "code": "bal",
       "type": "bool"
     },
