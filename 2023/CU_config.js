@@ -188,7 +188,13 @@ var config_data = `
     },
     { "name": "Good defense?",
       "code": "defg",
-      "type": "bool"
+      "type": "radio"
+      "choices": {
+        "G": "Played D, Good",
+        "B": "Played D, Bad",
+        "X": "Did not defend"
+        },
+        "defaultValue":"X"
     },
     { "name": "Swerve drive?",
       "code": "sd",
