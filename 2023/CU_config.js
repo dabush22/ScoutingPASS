@@ -187,7 +187,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Good defense?",
-      "code": "defg",
+      "code": "dr",
       "type": "radio"
       "choices": {
         "G": "Played D, Good",
