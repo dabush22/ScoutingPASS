@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "micmp4",
+      "defaultValue": "2023micmp4",
       "required": "true"
     },
     { "name": "Match Level",
