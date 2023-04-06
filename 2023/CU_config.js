@@ -188,7 +188,7 @@ var config_data = `
     },
     { "name": "Good defense?",
       "code": "dr",
-      "type": "radio"
+      "type": "radio",
       "choices": {
         "G": "Played D, Good",
         "B": "Played D, Bad",
